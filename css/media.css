@@ -1,0 +1,136 @@
+
+section p { @media (max-width: 768px)
+  width: 100%;   
+  text-align: center; 
+  color: rgb(192, 138, 73);
+} 
+h1{@media (max-width: 768px)
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+} 
+.navbar  { @media (max-width: 768px) 
+    display: flex;
+      justify-content: flex-start;
+    background-color: rgb(245, 245, 241); 
+    height: 50px; 
+    border-top: 2px;
+    width: 100%;
+} 
+.navbar button { @media (max-width: 768px) 
+  background-color: rgb(245, 245, 241);
+      color: rgb(175, 171, 171);
+      border: none;
+      padding: 10px 20px;
+      cursor: pointer;
+      font-size: 16px;
+      border-radius: 5px;
+      transition: background-color 0.3s ease; 
+} 
+p { @media (max-width: 768px)
+    width: 100%; 
+    color: rgb(192, 138, 73);
+} 
+.container { @media (max-width: 768px)
+    margin-top: 40px; 
+    margin-left: 10%; 
+    width: 100%; 
+    font-size: xx-large;
+} 
+
+.box { @media (max-width: 768px)
+     display: flex;
+  align-items: center; 
+  gap: 50px;  
+  margin-right: 40%;
+} 
+ol il { @media (max-width: 768px)
+    display: grid; 
+    text-transform: uppercase; 
+    margin-top: 60px; 
+    position: center;
+}
+.box img { @media (max-width: 768px)
+  right: 40px;
+} 
+.part2 { @media (max-width: 768px)
+    margin-top: 30px;
+    margin-left: 120px; 
+    text-transform: uppercase; 
+    font-size: medium;
+} 
+.wide img {@media (max-width: 768px)  
+    display: flex; 
+    float: right;
+} 
+.wide p { @media (max-width: 768px)
+    float: left;
+color: black; 
+width: 600px; 
+font-size: xx-large;
+} 
+.wide { @media (max-width: 768px)
+align-items: center; 
+} 
+.half ol {  @media (max-width: 768px)
+    display: flex; 
+    float: right;
+   width: 600px;
+   right: 700px; 
+   font-size: xx-large; 
+   text-transform: uppercase;
+} 
+.half img { @media (max-width: 768px)
+   display: flex; 
+   float: left;
+} 
+.part3 p { @media (max-width: 768px)
+     margin-top: 30px;
+    margin-left: 120px; 
+    text-transform: uppercase; 
+    font-size: medium;
+}  
+ .part4 p { @media (max-width: 768px)
+    margin-top: 30px;
+    margin-left: 120px; 
+    text-transform: uppercase; 
+    font-size: medium;
+ } 
+ .part4 ol { @media (max-width: 768px)
+    display: flex; 
+    float: left;
+   width: 600px;
+   right: 700px; 
+   font-size: xx-large; 
+   text-transform: uppercase;
+ } 
+ .part4 img { @media (max-width: 768px)
+    display: flex; 
+   float: right; 
+ } 
+  .part5 p { @media (max-width: 768px)
+    margin-top: 30px;
+    margin-left: 120px; 
+    text-transform: uppercase; 
+    font-size: medium;
+ } 
+ .part5 ol { @media (max-width: 768px)
+    display: flex; 
+    float: right;
+   width: 400px;
+   right: 500px; 
+   font-size: xx-large; 
+   text-transform: uppercase;
+ } 
+ .part5 img { @media (max-width: 768px)
+    display: flex; 
+   float: left; 
+ } 
+ footer { @media (max-width: 768px)
+    background-color: black; 
+  position: fixed; 
+  bottom: 0%; 
+  width: 100%; 
+  color: white;
+ } 
+
+

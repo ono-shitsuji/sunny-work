@@ -1,0 +1,135 @@
+section p { 
+  width: 100%;   
+  text-align: center; 
+  color: rgb(192, 138, 73);
+} 
+h1{
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+} 
+.navbar  {  
+    display: flex;
+      justify-content: flex-start;
+    background-color: rgb(245, 245, 241); 
+    height: 50px; 
+    border-top: 2px;
+    width: 100%;
+} 
+.navbar button {  
+  background-color: rgb(245, 245, 241);
+      color: rgb(175, 171, 171);
+      border: none;
+      padding: 10px 20px;
+      cursor: pointer;
+      font-size: 16px;
+      border-radius: 5px;
+      transition: background-color 0.3s ease; 
+} 
+p { 
+    width: 100%; 
+    color: rgb(192, 138, 73);
+} 
+.container { 
+    margin-top: 40px; 
+    margin-left: 10%; 
+    width: 100%; 
+    font-size: xx-large;
+} 
+
+.box { 
+     display: flex;
+  align-items: center; 
+  gap: 50px;  
+  margin-right: 40%;
+} 
+ol il { 
+    display: grid; 
+    text-transform: uppercase; 
+    margin-top: 60px; 
+    position: center;
+}
+.box img { 
+  right: 40px;
+} 
+.part2 { 
+    margin-top: 30px;
+    margin-left: 120px; 
+    text-transform: uppercase; 
+    font-size: medium;
+} 
+.wide img {   
+    display: flex; 
+    float: right;
+} 
+.wide p { 
+    float: left;
+color: black; 
+width: 600px; 
+font-size: xx-large;
+} 
+.wide { 
+align-items: center; 
+} 
+.half ol {  
+    display: flex; 
+    float: right;
+   width: 600px;
+   right: 700px; 
+   font-size: xx-large; 
+   text-transform: uppercase;
+} 
+.half img { 
+   display: flex; 
+   float: left;
+} 
+.part3 p { 
+     margin-top: 30px;
+    margin-left: 120px; 
+    text-transform: uppercase; 
+    font-size: medium;
+}  
+ .part4 p { 
+    margin-top: 30px;
+    margin-left: 120px; 
+    text-transform: uppercase; 
+    font-size: medium;
+ } 
+ .part4 ol { 
+    display: flex; 
+    float: left;
+   width: 600px;
+   right: 700px; 
+   font-size: xx-large; 
+   text-transform: uppercase;
+ } 
+ .part4 img { 
+    display: flex; 
+   float: right; 
+ } 
+  .part5 p { 
+    margin-top: 30px;
+    margin-left: 120px; 
+    text-transform: uppercase; 
+    font-size: medium;
+ } 
+ .part5 ol { 
+    display: flex; 
+    float: right;
+   width: 600px;
+   right: 700px; 
+   font-size: xx-large; 
+   text-transform: uppercase;
+ } 
+ .part5 img { 
+    display: flex; 
+   float: left; 
+ } 
+ footer { 
+    background-color: black; 
+  position: fixed; 
+  bottom: 0%; 
+  width: 100%; 
+  color: white;
+ } 
+
+
